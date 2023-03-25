@@ -15,8 +15,11 @@ UX Portfolio
 
 # Project 3: User Experience Design Project - 'Link-Up'
 - Conducted interviews and participated in team brainstorming sessions to gather potential pain points and requirements.
+[](https://github.com/Devanshib05/devanshib/blob/main/images/LinkUp1.jpg) 
 - Implemented thematic analysis approach to identify the situations (primary themes) of isolation and their underlying causes (secondary themes).
+[](https://github.com/Devanshib05/devanshib/blob/main/images/LinkUp2.jpg)
 - Collaborated on concept building and proposal after thorough brainstorming and analysis. 
 - Proposed and developed a cloud-based application concept that offers an interactive platform to international students that are looking for a socially-connected experience. 
 
 # Project 4: Data-Enabled Design - 'Sleeping Pal'
+[](https://github.com/Devanshib05/devanshib/blob/main/images/Data-enabled%20design%20-%20Brainstorming.jpg)
