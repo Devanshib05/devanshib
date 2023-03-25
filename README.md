@@ -1,5 +1,7 @@
-# devanshib
-UX Portfolio
+# Devanshi Bansal
+
+Welcome! Now that you're here, I have a short disclaimer.
+You might find my choice of work/career path full of twists and turns. But that's how I would define myself: A highly-motivated and passionate engineer fascinated by automobiles and eager to create innovative user experiences.  
 
 # Project 1: Automotive system engineering - Digital Twin of an Autonomous Truck
 - Created the necessary GUI (graphical user interface) in IBM Rhapsody and tested the interaction with the SysML models.
