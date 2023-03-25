@@ -1,6 +1,6 @@
 # devanshib
 UX Portfolio
-theme: Minima
+
 # Project 1: Automotive system engineering - Digital Twin of an Autonomous Truck
 - Created the necessary GUI (graphical user interface) in IBM Rhapsody and tested the interaction with the SysML models.
 - Designed an HMI concept using Adobe XD that allows the driver to:
